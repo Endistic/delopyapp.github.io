@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Runner.ipa</key>
+	<key>D-Health.ipa</key>
 	<array>
 		<dict>
 			<key>architectures</key>
@@ -285,7 +285,7 @@
 				<false/>
 			</dict>
 			<key>name</key>
-			<string>Runner.app</string>
+			<string>D-Health.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
